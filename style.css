@@ -1,9 +1,16 @@
+
+.hand {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: larger;
+}
+
 li {
     margin-bottom: 10px;
 }
 
-.hand {
-    font-family: 'Courier New', Courier, monospace;
+.title {
+    font-family: "Times New Roman"; 
 }
 
 .main {
@@ -11,7 +18,7 @@ li {
 }
 
 .recipelink {
-    font-size: large;
+    font-size: x-large;
 }
 
 .apple {
@@ -30,8 +37,4 @@ li {
 
 .mead {
     background-color: rgb(207, 21, 213);
-}
-
-.title {
-    font-family: "Times New Roman"; 
 }
