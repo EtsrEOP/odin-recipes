@@ -1,0 +1,37 @@
+li {
+    margin-bottom: 10px;
+}
+
+.hand {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.main {
+    text-align: center;
+}
+
+.recipelink {
+    font-size: large;
+}
+
+.apple {
+    background-color: rgb(213, 21, 21);
+}
+
+.grilled {
+    background-color: rgb(49, 158, 212);
+
+    
+}
+
+.odin {
+    background-color: rgb(185, 123, 8);
+}
+
+.mead {
+    background-color: rgb(207, 21, 213);
+}
+
+.title {
+    font-family: "Times New Roman"; 
+}
